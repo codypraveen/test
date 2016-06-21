@@ -3,6 +3,10 @@
 require_once('includes/config.php');
 
 /*
+<<<<<<< HEAD
+=======
+* Subscribing a new paypal user
+>>>>>>> ac343468fccdc0b4b38b1c3bd92e443a35dadbd3
 
 // Store request params in an array
 $request_params = array
@@ -107,6 +111,10 @@ $result = change_subscription_status('I-BFB3VET47UF1', 'Cancel');
 
 echo '<pre>'; print_r($result);
 
+<<<<<<< HEAD
+=======
+// Updating an existing paypal subscriber details
+>>>>>>> ac343468fccdc0b4b38b1c3bd92e443a35dadbd3
 
 /**
  * Performs an Express Checkout NVP API operation as passed in $action.
@@ -166,4 +174,11 @@ Array
     [BUILD] => 16837281
 )
 
+<<<<<<< HEAD
 */
+=======
+*/
+
+
+?>
+>>>>>>> ac343468fccdc0b4b38b1c3bd92e443a35dadbd3
