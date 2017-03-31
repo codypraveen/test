@@ -1,5 +1,5 @@
 <?php
 
-    echo "Hello Codeship";
+    echo "Hello Codeship Deployment";
 
 ?>
